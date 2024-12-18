@@ -2,8 +2,6 @@
  * The second-degree equation with one variable
  */
 
- package Lab01.bai_2_2_6;
-
  import java.util.Scanner;
 
  public class SecondDegreeEquation {

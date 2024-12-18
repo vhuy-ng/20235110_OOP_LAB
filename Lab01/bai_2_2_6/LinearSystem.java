@@ -2,8 +2,6 @@
  * The system of first-degree equations (linear system) with two variables
  */
 
-package Lab01.bai_2_2_6;
-
 import java.util.Scanner;
 
 public class LinearSystem {
